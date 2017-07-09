@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TaskManagerApp</string>
+    <string name="action_all">All Tasks</string>
+    <string name="action_editnew">New</string>
+    <string name="action_home">Home</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_all">All Tasks</string>
+    <string name="title_activity_details">Task Details</string>
+    <string name="title_activity_creat_edit">New Task</string>
+    <string name="filter_by_status_open">Open status</string>
+    <string name="filter_by_status_closed">Closed status</string>
+    <string name="filter_by_date_old">Oldest first</string>
+    <string name="filter_by_date_recent">More recent first</string>
+</resources>
